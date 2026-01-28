@@ -11,4 +11,4 @@ Part of the learning experience of this project is to try / learn Claude Code.
 
 
 
-Dataset: [OKCupid dataset](https://archive.org/details/OKCupid-Kirkegaard-Bjerrekaer-dataset)
+Dataset: https://www.kaggle.com/datasets/bromotdi/okcupid-eda-2021?resource=download
