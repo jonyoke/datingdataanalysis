@@ -8,3 +8,7 @@ I'm interested to see if there are certain segements of the population that are 
 I may introduce a GUI. TBD.
 
 Part of the learning experience of this project is to try / learn Claude Code.
+
+
+
+Dataset: [OKCupid dataset](https://archive.org/details/OKCupid-Kirkegaard-Bjerrekaer-dataset)
