@@ -11,4 +11,9 @@ Part of the learning experience of this project is to try / learn Claude Code.
 
 
 
-Dataset: https://www.kaggle.com/datasets/bromotdi/okcupid-eda-2021?resource=download
+Dataset: https://www.kaggle.com/datasets/galacticor/okcupid-dataset
+Broader 68k country wide dataset
+
+CURRENT: Does the data set I just downloaded have the fields I'm looking for?
+- Change from RDS file to Parquet file
+- 
